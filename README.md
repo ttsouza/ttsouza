@@ -39,9 +39,3 @@ Acredito que a tecnologia só é eficiente quando acompanhada de uma infraestrut
 Se você quiser bater um papo sobre inovação ou parcerias, me mande uma mensagem!
 
 http://wa.me/+5512981794790
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
